@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudheer.tetali/mlflow_tutorial/mlruns/0/c050a1b6e351468b9428fc01e693162b/artifacts
+end_time: 1674980547716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c050a1b6e351468b9428fc01e693162b
+run_name: ambitious-fowl-398
+run_uuid: c050a1b6e351468b9428fc01e693162b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674980531948
+status: 3
+tags: []
+user_id: sudheer.tetali

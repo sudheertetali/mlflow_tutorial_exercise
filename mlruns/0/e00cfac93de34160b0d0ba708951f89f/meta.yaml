@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudheer.tetali/mlflow_tutorial/mlruns/0/e00cfac93de34160b0d0ba708951f89f/artifacts
+end_time: 1674980516547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e00cfac93de34160b0d0ba708951f89f
+run_name: gaudy-snake-480
+run_uuid: e00cfac93de34160b0d0ba708951f89f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674980500909
+status: 3
+tags: []
+user_id: sudheer.tetali

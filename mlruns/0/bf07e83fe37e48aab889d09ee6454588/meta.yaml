@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudheer.tetali/mlflow_tutorial/mlruns/0/bf07e83fe37e48aab889d09ee6454588/artifacts
+end_time: 1674979638297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf07e83fe37e48aab889d09ee6454588
+run_name: resilient-seal-890
+run_uuid: bf07e83fe37e48aab889d09ee6454588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674979623881
+status: 3
+tags: []
+user_id: sudheer.tetali

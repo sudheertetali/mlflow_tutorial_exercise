@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudheer.tetali/mlflow_tutorial/mlruns/0/860a5b89f35e4e86afe72b6e94552d63/artifacts
+end_time: 1674979713320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 860a5b89f35e4e86afe72b6e94552d63
+run_name: incongruous-crab-205
+run_uuid: 860a5b89f35e4e86afe72b6e94552d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674979696087
+status: 3
+tags: []
+user_id: sudheer.tetali

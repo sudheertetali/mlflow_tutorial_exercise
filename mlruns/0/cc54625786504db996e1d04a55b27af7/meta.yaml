@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudheer.tetali/mlflow_tutorial/mlruns/0/cc54625786504db996e1d04a55b27af7/artifacts
+end_time: 1674980482594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc54625786504db996e1d04a55b27af7
+run_name: marvelous-ram-721
+run_uuid: cc54625786504db996e1d04a55b27af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674980466121
+status: 3
+tags: []
+user_id: sudheer.tetali

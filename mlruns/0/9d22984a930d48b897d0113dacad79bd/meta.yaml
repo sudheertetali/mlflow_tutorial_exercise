@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sudheer.tetali/mlflow_tutorial/mlruns/0/9d22984a930d48b897d0113dacad79bd/artifacts
+end_time: 1674979680396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d22984a930d48b897d0113dacad79bd
+run_name: thundering-gull-196
+run_uuid: 9d22984a930d48b897d0113dacad79bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674979665663
+status: 3
+tags: []
+user_id: sudheer.tetali
